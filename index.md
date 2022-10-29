@@ -1,4 +1,4 @@
 ---
-title: Welcome to the treasure trove of unblocked things! Including Discord and other stuff.
+title: "Welcome to UnblockedStuff"
+date: YYYY-MM-DD
 ---
-
